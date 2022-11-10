@@ -18,13 +18,10 @@ public class KiemTraJavaCau2 {
             }
         }
         System.out.println("Số lần xuất hiện ký tự " + kytu + " là: " + count2);
-        int index = string.indexOf(kytu);
-        while (index != -1) {
-            System.out.println("Thứ tự chữ cái o trong chuỗi là: " + index);
-            index = string.indexOf(kytu, index + 1);
-        }
     }
+
 }
+
 
 
 
