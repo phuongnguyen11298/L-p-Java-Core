@@ -1,4 +1,4 @@
-package BaiTapVeNha;
+package BaiTapVeNha.BaiTapSo3;
 import java.util.Scanner;
 
 public class BaiTapSo3Bai5 {

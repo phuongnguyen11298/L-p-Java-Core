@@ -1,4 +1,4 @@
-package BaiTapVeNha;
+package BaiTapVeNha.BaiTapSo3;
 
 public class BaiTapSo3bai6 {
     public static void main(String[] args) {
