@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/KiemTraGiuaKy/KiemTraGiuaKy.iml" filepath="$PROJECT_DIR$/KiemTraGiuaKy/KiemTraGiuaKy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson-01/Lesson-01.iml" filepath="$PROJECT_DIR$/Lesson-01/Lesson-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson-02/Lesson-02.iml" filepath="$PROJECT_DIR$/Lesson-02/Lesson-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson-03/Lesson-03.iml" filepath="$PROJECT_DIR$/Lesson-03/Lesson-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson-04/Lesson-04.iml" filepath="$PROJECT_DIR$/Lesson-04/Lesson-04.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Lớp Java Core.iml" filepath="$PROJECT_DIR$/.idea/Lớp Java Core.iml" />
       <module fileurl="file://$PROJECT_DIR$/Midterm/Midterm.iml" filepath="$PROJECT_DIR$/Midterm/Midterm.iml" />
     </modules>
